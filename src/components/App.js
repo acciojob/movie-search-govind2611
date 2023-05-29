@@ -1,12 +1,11 @@
 import React from "react";
 import './../styles/App.css';
-import SearchBar from "./Searchbar";
+import SearchBar from "./SearchBar";
 
 const App = () => {
   return (
     <div>
-       
-        <SearchBar/>
+        <SearchBar />
     </div>
   )
 }
